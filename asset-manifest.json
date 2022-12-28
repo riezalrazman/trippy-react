@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/trippy-react/static/css/main.1087e276.css",
+    "main.js": "/trippy-react/static/js/main.0d8df16b.js",
+    "index.html": "/trippy-react/index.html",
+    "main.1087e276.css.map": "/trippy-react/static/css/main.1087e276.css.map",
+    "main.0d8df16b.js.map": "/trippy-react/static/js/main.0d8df16b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1087e276.css",
+    "static/js/main.0d8df16b.js"
+  ]
+}
